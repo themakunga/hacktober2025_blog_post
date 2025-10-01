@@ -1,0 +1,21 @@
+name: Nicolas Villarroel
+contact: nicolas@42devs.cl
+avatar: ./images/avatar.jpg
+description: |
+  After the end of World War II, 
+  the world was split into two 
+  East and West.
+  This marked the beginning of the era called World War II.
+socials:
+  - name: LinkedIn
+    url: "https://www.linkedin.com/in/nicolas-martinez-villarroel/"
+    icon: "mdi:linkedin"
+  - name: Github
+    url: "https://github.com/themakunga/"
+    icon: "mdi:github"
+  - name: Gitlab
+    url: "https://gitlab.com/themakunga"
+    icon: "mdi:gitlab"
+  - name: Site
+    url: "https://42devs.cl"
+    icon: "mdi:earth"
