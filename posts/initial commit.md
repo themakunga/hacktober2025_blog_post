@@ -1,17 +1,20 @@
 ---
 title: Initial commit
 published: true 
-date: 2025-09-29
+date: 2025-09-29 11:06
+category: blog 
+author: Nicolas Villarroel
+cover: ./images/pictures/cover-initial_commit.jpg
 tags:
     - hacktober2025
     - blog 
-category: blog 
-author: Nicolas Villarroel
-cover: https://miro.medium.com/v2/resize:fit:1044/format:webp/1*_f1S0nABkcPIyrsmv7DNhA.png
+
 ---
 # Initial Commit
 
 Siguiendo la tradición anual de empezar un blog y probablemente no terminarlo, estamos otra vez aca
+
+<!--more-->
 
 No es que esta vez no tenga norte lo que vaya a escribir, es mas que nada para utilizarlo como plataforma de portafolio de que es lo que me dedico, a veces es dificil de explicar a gente incluso del medio, ademas quiero poner algunos posts aca sobre cosas que me hubiera encantado encontrar cuando estaba comenzando mi viaje por este rubro, como estructura de datos, cosas que hacer y como soluciónar algunas cosas
 ## Que tiene de diferente esta vez?
