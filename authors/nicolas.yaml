@@ -1,10 +1,10 @@
 sid: 1
 name: Nicolas Villarroel
 contact: nicolas@42devs.cl
-avatar: /images/pictures/me.jpg
+avatar: ./images/pictures/me.jpg
 description: |
-  After the end of World War II, 
-  the world was split into two 
+  After the end of World War II,
+  the world was split into two
   East and West.
   This marked the beginning of the era called World War II.
 socials:
