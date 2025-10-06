@@ -40,7 +40,7 @@ en software
 - Opentofu como IaC (infrastructure as Code)
 - contenedores, contenedores y mas contenedores para gestionar los servicios que necesito
 
---- 
+---
 
 No pasare por cada cosa y como instalarla, menos ire a mostrar los archivos de flakes que uso en nix en mi servidor, pero no es nada del otro mundo, nada que un buen flake que ya exista y agregarle como `environment.pkgs` los servicios escenciales que necesito.
 
@@ -50,8 +50,7 @@ la idea de usar una herramienta como **coolify** es emular el como seria tener u
 
 uno de los principales problemas al utilizar `opentofu` es como manejas los state del servicio 
 
-
-:::info
+:::Alert{type="info"}
   opentofu es literamente el heredero open source de `terraform`, tienen la misma sintaxis y la linea de comandos funciona casi de la misma manera, incluso las dependencias o providers, son los mismos que usa actualmente `terraform`, tuvieron una diferencia en el cambio de licencia de `terraform`
   asi que este fork viene a usar el espacio de la gente que rehusa a utilizar otras herramientas de IaC como `pulumi`, `cloudformation`, `CDK` y `troposphere`.
 :::
