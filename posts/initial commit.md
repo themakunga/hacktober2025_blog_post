@@ -60,3 +60,5 @@ eso tendra su propia serie de articulos, porque el blog va a ser auto referente,
 tecnicamente le hice el desafio a un conocido, dudo que lo realice y nadie mas sabe que hare algo asi, asi que tampoco creo que mas gente se una por su lado a hacer cosas como estas. igual si tiene algun arrastre bienvenido sea
 
 asi que para dejar las cosas claras, a partir del 1 de octubre hasta el 31 (esperemos) van a haber post diarios, explicando algunas cosas que se, ya tengo un roadmap para ello e incluso puede que ese mismo roadmap tenga su propio articulo en el blog
+
+q
