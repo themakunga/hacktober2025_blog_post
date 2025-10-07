@@ -10,20 +10,38 @@ tags:
     - blog
 ---
 
+# {$doc.title}
+
+
+
+
 ```mermaid
 kanban
-todo[To Do]
-	post1[Post inicial]
-doing[Doing]
-done[Done]
+Todo
+	[Pagina - Author]
+    [Pagina - categorias]
+    [Pagina - blog , all posts paginado]
+    [pagina - acerca de, explicar el proyecto]
+	[manejo 404]
+	[post - arquitectura inicial]
+	[post - coolify]
+	[post - ]
+In Progress
+    [paginas, handler de paginas]
+	[Pagina - Roadmap]
+	[post - on premise]
+Ready
+Published
+	[ post - initial commit]
+	[post - roadmap]
+	
+Abandoned
     
 ```
 
 
-
+:::credits
 Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/yellow-click-pen-on-white-printer-paper-gcHFXsdcmJE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-
-Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/yellow-click-pen-on-white-printer-paper-gcHFXsdcmJE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
-
+:::
 
 
