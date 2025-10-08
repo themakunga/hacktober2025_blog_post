@@ -16,24 +16,24 @@ tags:
 
 
 ```mermaid
-kanban
+ 	kanban
 Todo
 	[Pagina - Author]
     [Pagina - categorias]
-    [Pagina - blog , all posts paginado]
+    [Pagina - blog , all Posts paginado]
     [pagina - acerca de, explicar el proyecto]
-	[manejo 404]
-	[post - arquitectura inicial]
-	[post - coolify]
-	[post - ]
+	[Manejo 404]
+	[Post - arquitectura inicial]
+	[Post - coolify]
+	[Post - ]
 In Progress
     [paginas, handler de paginas]
 	[Pagina - Roadmap]
-	[post - on premise]
+	[Post - on premise]
 Ready
 Published
-	[ post - initial commit]
-	[post - roadmap]
+	[Post - initial commit]
+	[Post - roadmap]
 	
 Abandoned
     
@@ -43,5 +43,4 @@ Abandoned
 :::credits
 Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/yellow-click-pen-on-white-printer-paper-gcHFXsdcmJE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 :::
-
 
