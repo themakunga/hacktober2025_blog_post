@@ -10,13 +10,13 @@ tags:
     - blog
 ---
 
-# {$doc.title}
+# {{$doc.title}}
 
 
 
 
-```mermaid
- 	kanban
+```mermaid 
+kanban
 Todo
 	[Pagina - Author]
     [Pagina - categorias]
